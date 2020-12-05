@@ -1,2 +1,2 @@
-# lottery-numbers
-simple lottery number generator
+# random-numbers
+simple random number generator
